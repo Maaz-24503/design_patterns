@@ -1,3 +1,5 @@
+package Decorator;
+
 class Paneer extends ToppingsDecorator{
     Pizza pizza;
 

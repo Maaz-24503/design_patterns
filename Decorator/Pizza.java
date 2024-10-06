@@ -1,3 +1,5 @@
+package Decorator;
+
 abstract class Pizza {
 
 String description = "abstract pizza";

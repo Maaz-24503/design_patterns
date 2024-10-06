@@ -1,3 +1,5 @@
+package Decorator;
+
 public class PizzaStore {
     
     public static void main(String[] args) {

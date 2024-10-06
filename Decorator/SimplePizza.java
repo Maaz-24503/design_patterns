@@ -1,3 +1,5 @@
+package Decorator;
+
 public class SimplePizza extends Pizza{
     
     public SimplePizza(){

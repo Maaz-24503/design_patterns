@@ -1,3 +1,5 @@
+package Decorator;
+
 class ChickenFiesta extends Pizza {
 
     public ChickenFiesta(){

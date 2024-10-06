@@ -1,3 +1,5 @@
+package Decorator;
+
 class FreshTomato extends ToppingsDecorator{
     Pizza pizza;
 

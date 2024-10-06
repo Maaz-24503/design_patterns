@@ -19,17 +19,22 @@ The **Builder Pattern** separates the construction of a complex object from its 
 
 Directory: `Builder/`
 
-### 4. Factory Pattern
+### 4. Decorator Pattern
+The Decorator Pattern dynamically adds behavior or functionality to an object without altering its structure, providing a flexible alternative to subclassing.
+
+Directory: `Decorator/`
+
+### 5. Factory Pattern
 The **Factory Pattern** provides an interface for creating objects, allowing the subclass to decide which object to instantiate. This pattern promotes loose coupling and flexibility when adding new product types.
 
 Directory: `Factory/`
 
-### 5. Singleton Pattern
+### 6. Singleton Pattern
 The **Singleton Pattern** ensures that a class has only one instance and provides a global point of access to that instance. It’s used to manage resources efficiently in applications.
 
 Directory: `Singleton/`
 
-### 6. Nton Pattern
+### 7. Nton Pattern
 The **Nton Pattern** is a generalized form of the Singleton pattern. Instead of restricting instantiation to one instance, it allows a fixed number (`N`) of instances to exist.
 
 Directory: `Nton/`
